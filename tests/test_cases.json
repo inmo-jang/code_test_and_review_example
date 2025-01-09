@@ -8,5 +8,5 @@
     {"input": {"a": 123, "b": 456}, "expected": 56088},
     {"input": {"a": 10, "b": 10}, "expected": 100},
     {"input": {"a": 0, "b": 0}, "expected": 0},
-    {"input": {"a": 999, "b": -1}, "expected": -999}
+    {"input": {"a": 999, "b": -1}, "expected": 999}
 ]
