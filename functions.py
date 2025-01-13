@@ -7,4 +7,4 @@ def minus(a, b):
     return a - b
 
 def function():
-    pass
+    return 0
