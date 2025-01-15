@@ -6,6 +6,6 @@ def minus(a, b):
     """Subtract b from a."""
     return a - b
 
-def mul(a, b):
+def multiply(a, b):
     """Multiply two numbers."""
     return a * b
