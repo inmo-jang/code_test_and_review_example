@@ -1,6 +1,4 @@
-def add(a, b):
-    """Add two numbers."""
-    return a + b
+import cmath
 
 def minus(a, b):
     """Subtract b from a."""
@@ -9,6 +7,18 @@ def minus(a, b):
 def multiply(a, b):
     """Multiply two numbers."""
     return a * b
+
+def divide(a, b):
+    if b == 0:
+        return '0으로 나눌 수 없음.'
+    return a / b
+
+def make0(a):
+    return a*0
+
+def root(a):
+    """Return the square root of a. Supports complex results for negative inputs."""
+    return cmath.sqrt(a)
     
 def divide(a, b):
     if b ==0:
@@ -16,3 +26,4 @@ def divide(a, b):
     return a / b
 def make0(a):
     return a*0
+
