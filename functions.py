@@ -1,5 +1,8 @@
 import cmath
 
+def add(a,b):
+    return a + b
+
 def minus(a, b):
     """Subtract b from a."""
     return a - b
