@@ -13,6 +13,9 @@ def divide(a, b):
         return '0으로 나눌 수 없음.'
     return a / b
 
+def make0(a):
+    return a*0
+
 def root(a):
     """Return the square root of a. Supports complex results for negative inputs."""
     return cmath.sqrt(a)
