@@ -3,6 +3,10 @@
 ## [1.0.0] - 2025-05-11
 
 ### Added
+Added `multiply(a, b)` function in `functions.py` to perform division.
+Added 'divide(a, b)' function in 'functions.py' to perform addition.
+Added 'add()' function in 'functions.py' to perform addition.
+Added 'minus()' function in 'functions.py' to perform addition.
 
 - Initial release of the project.
 - Implemented `main.py` as the entry point of the application.
