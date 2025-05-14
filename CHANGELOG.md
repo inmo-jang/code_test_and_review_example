@@ -9,6 +9,7 @@ Added `add(a, b)` function in `functions.py` to perform addition.
 Added `minus(a, b)` function in `functions.py` to perform addition.   
 Added 'make0(a)' function in 'functions.py' to perform addition.  
 Added 'root(a)' function in 'functions.py' to perform addtion.
+
 - Initial release of the project.
 - Implemented `main.py` as the entry point of the application.
 - Added `functions.py` containing core functionalities.
