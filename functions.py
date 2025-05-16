@@ -1,5 +1,8 @@
 import cmath
 
+def add(a,b):
+    return a + b
+
 def minus(a, b):
     """Subtract b from a."""
     return a - b
@@ -13,7 +16,7 @@ def divide(a, b):
         return '0으로 나눌 수 없음.'
     return a / b
 
-def make0(a):
+def make_zero(a):
     return a*0
 
 def root(e):
