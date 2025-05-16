@@ -19,6 +19,3 @@ def make0(a):
 def root(e):
     """Return the square root of a. Supports complex results for negative inputs."""
     return cmath.sqrt(e)
-
-
-
