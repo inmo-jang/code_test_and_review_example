@@ -7,9 +7,8 @@ Added `multiply(a, b)` function in `functions.py` to perform division.
 Added `divide(a, b)` function in `functions.py` to perform addition.   
 Added `add(a, b)` function in `functions.py` to perform addition.   
 Added `minus(a, b)` function in `functions.py` to perform addition.   
-Added `make_zero(a)` function in `functions.py` to perform addition.  
-Added `root(a)` function in `functions.py` to perform addtion.
-
+Added 'make0(a)' function in 'functions.py' to perform addition.  
+Added 'root(e)' function in 'functions.py' to perform addition.
 - Initial release of the project.
 - Implemented `main.py` as the entry point of the application.
 - Added `functions.py` containing core functionalities.
