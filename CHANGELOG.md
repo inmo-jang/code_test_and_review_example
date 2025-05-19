@@ -3,7 +3,7 @@
 ## [1.0.0] - 2025-05-11
 
 ### Added
-- add squared function -2025-05-16
+- Added `square(a)` function in `functions.py` to perform addition
 
 - Initial release of the project.
 - Implemented `main.py` as the entry point of the application.
