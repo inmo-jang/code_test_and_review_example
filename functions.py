@@ -5,3 +5,6 @@ def add(a, b):
 def minus(a, b):
     """Subtract b from a."""
     return a - b
+
+def square(a):
+    return a**2
