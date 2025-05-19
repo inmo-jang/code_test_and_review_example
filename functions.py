@@ -7,6 +7,9 @@ def minus(a, b):
     """Subtract b from a."""
     return a - b
 
+def square(a):
+    return a**2
+
 def multiply(a, b):
     """Multiply two numbers."""
     return a * b
@@ -22,3 +25,4 @@ def make_zero(a):
 def root(e):
     """Return the square root of a. Supports complex results for negative inputs."""
     return cmath.sqrt(e)
+
